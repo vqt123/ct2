@@ -2,3 +2,5 @@ node_modules/
 uploads/
 posts.json
 .DS_Store
+.vercel
+.env*.local
