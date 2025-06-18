@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "functions": {
     "api/admin/post.js": {
       "maxDuration": 10
@@ -13,5 +14,6 @@
       "source": "/admin",
       "destination": "/api/admin"
     }
-  ]
+  ],
+  "buildCommand": "echo 'API-only project, no build needed'"
 }
