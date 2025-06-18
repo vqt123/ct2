@@ -1,0 +1,4 @@
+node_modules/
+uploads/
+posts.json
+.DS_Store
